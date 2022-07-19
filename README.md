@@ -1,4 +1,12 @@
 ### Hi there 👋
+Check out [johnedchristensen.github.io](https://johnedchristensen.github.io/)
+
+- 🔭 I’m currently working on [JohnEdChristensen/WebbCompare](https://github.com/JohnEdChristensen/WebbCompare)
+- 👯 I’m looking to collaborate on creating new [Explorable Explanations](https://explorabl.es/), interactive websites that let readers discover insights for themselves
+- 🌱 I’m currently learning
+  - 🪶 [Idyll](https://github.com/idyll-lang/idyll)
+  - ⚛️ React
+
 
 <!--
 **JohnEdChristensen/JohnEdChristensen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
