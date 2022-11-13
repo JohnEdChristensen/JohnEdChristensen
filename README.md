@@ -2,9 +2,9 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-christensen-342028155/)
 
 
-Check out [johnedchristensen.github.io](https://johnedchristensen.github.io/) for the things I've worked on that I'm most proud of.
+[johnedchristensen.github.io](https://johnedchristensen.github.io/)
 
-Recent projects: [JohnEdChristensen/WebbCompare](https://github.com/JohnEdChristensen/WebbCompare).
+Recent projects: [JohnEdChristensen/WebbCompare](https://github.com/JohnEdChristensen/WebbCompare)
 
 
 <!--
