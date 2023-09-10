@@ -1,12 +1,19 @@
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/JohnnyC1423)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-christensen-342028155/)
+## Social
+Mastadon: [@JohnWithAnH@hachyderm.io](https://hachyderm.io/@JohnWithAnH)
 
+Twitter: [twitter.com/JohnnyC1423](https://twitter.com/JohnnyC1423)
 
-[johnedchristensen.github.io](https://johnedchristensen.github.io/)
+LinkedIn: [linkedin.com/in/john-christensen-342028155/](https://www.linkedin.com/in/john-christensen-342028155/)
+
+## Projects
+
+Currently working on: [lyra](https://github.com/JohnEdChristensen/lyra)
 
 Recent projects: [JohnEdChristensen/WebbCompare](https://github.com/JohnEdChristensen/WebbCompare)
 
+## Coverage
 
+NPR: https://www.npr.org/2022/07/18/1111808405/comparing-james-webb-space-telescope-hubble-nasa
 <!--
 **JohnEdChristensen/JohnEdChristensen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
