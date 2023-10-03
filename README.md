@@ -10,7 +10,7 @@ LinkedIn: [linkedin.com/in/john-christensen-342028155/](https://www.linkedin.com
 Currently working on: [lyra](https://github.com/JohnEdChristensen/lyra), an interactive simulation of a guitar string, written in rust and [runs in the browser](https://johnedchristensen.github.io/lyra/)!
 
 Recent projects: 
-- [WebbCompare]([https://github.com/JohnEdChristensen/WebbCompare](https://www.webbcompare.com/))
+- [WebbCompare](https://www.webbcompare.com/)
   - Convenient way to compare Hubble and Webb Images
   - Appeared on NPR: https://www.npr.org/2022/07/18/1111808405/comparing-james-webb-space-telescope-hubble-nasa
 - [SymmetryReduceBZ.jl](https://github.com/jerjorg/SymmetryReduceBZ.jl)
