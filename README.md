@@ -1,5 +1,5 @@
 ## Social
-Mastadon: [@JohnWithAnH@hachyderm.io](https://hachyderm.io/@JohnWithAnH)
+Mastodon: [@JohnWithAnH@hachyderm.io](https://hachyderm.io/@JohnWithAnH)
 
 Twitter: [twitter.com/JohnnyC1423](https://twitter.com/JohnnyC1423)
 
@@ -7,15 +7,15 @@ LinkedIn: [linkedin.com/in/john-christensen-342028155/](https://www.linkedin.com
 
 ## Projects
 
-Currently working on: [lyra](https://github.com/JohnEdChristensen/lyra), an interactive simulation of guitar string, written in rust and [runs in the browser](https://johnedchristensen.github.io/lyra/)!
+Currently working on: [lyra](https://github.com/JohnEdChristensen/lyra), an interactive simulation of a guitar string, written in rust and [runs in the browser](https://johnedchristensen.github.io/lyra/)!
 
 Recent projects: 
-- [JohnEdChristensen/WebbCompare](https://github.com/JohnEdChristensen/WebbCompare)
-- 
+- [WebbCompare]([https://github.com/JohnEdChristensen/WebbCompare](https://www.webbcompare.com/))
+  - Convenient way to compare Hubble and Webb Images
+  - Appeared on NPR: https://www.npr.org/2022/07/18/1111808405/comparing-james-webb-space-telescope-hubble-nasa
+- [SymmetryReduceBZ.jl](https://github.com/jerjorg/SymmetryReduceBZ.jl)
+  - Novel algorithm for calculating the Irreducible Brillouin Zone. Used in materials simulation.
 
-## Coverage
-
-NPR: https://www.npr.org/2022/07/18/1111808405/comparing-james-webb-space-telescope-hubble-nasa
 <!--
 **JohnEdChristensen/JohnEdChristensen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
