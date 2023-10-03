@@ -7,9 +7,11 @@ LinkedIn: [linkedin.com/in/john-christensen-342028155/](https://www.linkedin.com
 
 ## Projects
 
-Currently working on: [lyra](https://github.com/JohnEdChristensen/lyra)
+Currently working on: [lyra](https://github.com/JohnEdChristensen/lyra), an interactive simulation of guitar string, written in rust and [runs in the browser](https://johnedchristensen.github.io/lyra/)!
 
-Recent projects: [JohnEdChristensen/WebbCompare](https://github.com/JohnEdChristensen/WebbCompare)
+Recent projects: 
+- [JohnEdChristensen/WebbCompare](https://github.com/JohnEdChristensen/WebbCompare)
+- 
 
 ## Coverage
 
