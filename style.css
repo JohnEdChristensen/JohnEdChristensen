@@ -1,0 +1,23 @@
+body {
+  margin: 40px auto;
+  max-width: 650px;
+  line-height: 1.6;
+  font-size: 16px;
+  color: #4D4C43;
+  padding: 0 10px;
+  background-color: #E0DCC7
+}
+
+h1,
+h2,
+h3 {
+  line-height: 1.2
+}
+
+a {
+  color: #8DA101
+}
+
+a:visited {
+  color: #35A77C
+}
