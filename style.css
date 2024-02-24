@@ -26,6 +26,14 @@ li {
   column-width: 50vw;
 }
 
+li img {
+  float: right;
+  margin-left: 20px;
+  width: 200px;
+  height: auto;
+  margin-bottom: 10px;
+}
+
 /* body>ul:nth-child(6) { */
 /*   list-style-position: inside; */
 /*   padding: 0px; */
@@ -45,11 +53,3 @@ li {
 /*   } */
 /**/
 /* } */
-
-li img {
-  float: right;
-  margin-left: 20px;
-  width: 200px;
-  height: auto;
-  margin-bottom: 10px;
-}
