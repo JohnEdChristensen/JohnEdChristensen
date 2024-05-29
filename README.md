@@ -1,7 +1,6 @@
 # John Christensen
-I think difficult things should be easier.
 
-I like working on projects that make things less difficult and more enjoyable.
+I like working on things that help people create cool things
 
 ## Social
 - Mastodon: [@JohnWithAnH@hachyderm.io](https://hachyderm.io/@JohnWithAnH)
