@@ -4,7 +4,6 @@ I like working on things that help people create cool things
 
 ## Social
 - Mastodon: [@JohnWithAnH@hachyderm.io](https://hachyderm.io/@JohnWithAnH)
-- Blog: [GooseLaw.org](https://www.gooselaw.org)
 
 ## Projects
 - Visual Programming for MRI Physics research
